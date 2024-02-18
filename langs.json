@@ -5,6 +5,11 @@
     "country": "United States"
   },
   {
+    "code": "bur_MM",
+    "name": "Burmese",
+    "country": "Myanmar",
+  },
+  {
     "code": "es_CO",
     "name": "Español",
     "country": "Colombia"
